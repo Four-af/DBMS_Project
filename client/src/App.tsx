@@ -22,9 +22,8 @@ const App: React.FC = () => {
           <Route path="/notifications" element={<Notifications />} />
           <Route path="/bookmarks" element={<BookMarks />} />
           <Route path="/settings" element={<Settings />} />
-          <Route path ="/login" element={<Loginpage />} />
-          <Route path ="/signup" element={<Loginpage />} />
-
+          <Route path="/login" element={<Loginpage />} />
+          <Route path="/signup" element={<Loginpage />} />
         </Routes>
       </Suspense>
     </Router>
