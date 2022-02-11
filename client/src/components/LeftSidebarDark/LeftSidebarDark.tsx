@@ -49,22 +49,22 @@ const LeftSidebarDark = () => {
         </div>
         <div className="tags-wrapper">
           <span className="tag">
-            <small>BAKETI.JS</small>
+            <small>JAVASCRIPTS</small>
           </span>
           <span className="tag">
-            <small>MAR JAVA</small>
+            <small>JAVA</small>
           </span>
           <span className="tag">
-            <small>C ASS ASS</small>
+            <small>CSSS</small>
           </span>
           <span className="tag">
-            <small>FLUCKKER</small>
+            <small>FLUTTER</small>
           </span>
           <span className="tag">
-            <small>PITHOON</small>
+            <small>PYTHON</small>
           </span>
           <span className="tag">
-            <small>SQL-FRONTEND</small>
+            <small>SQL</small>
           </span>
         </div>
       </div>

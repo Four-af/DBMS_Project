@@ -3,7 +3,7 @@ import "./Loader.css";
 
 const Loader = () => {
   useEffect(() => {
-    document.title = "Jmi-Nuts - Loading";
+    document.title = "JMI JAMS - Loading";
   }, []);
   return (
     <div className="loaderboi">
